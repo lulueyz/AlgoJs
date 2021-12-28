@@ -1,4 +1,4 @@
-let prenom = "lucie";
+/* let prenom = "lucie";
 console.log(prenom);
 let age = 21;
 console.log(age);
@@ -42,7 +42,7 @@ function direBonjour() {
 }
 direBonjour()
  
-
+ */
 
 
 
